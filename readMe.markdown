@@ -1,3 +1,17 @@
+# 软件用法
+
+源码的话请运行GUI_jibolin类的main方法。
+
+初始界面：
+
+![image-20210305002603959](readMe.assets/image-20210305002603959.png)
+
+登录账号：
+
+![image-20210305002707493](readMe.assets/image-20210305002707493.png)
+
+# 提示
+
 请在GUI_jibolin类打开软件相应功能。
 
 警告！！！
